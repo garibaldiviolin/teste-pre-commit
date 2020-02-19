@@ -1,3 +1,8 @@
 from datetime import datetime
 
-print(datetime.utcnow())
+
+def teste():
+    print(datetime.utcnow())
+
+
+teste()
