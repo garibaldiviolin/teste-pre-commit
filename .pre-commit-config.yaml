@@ -47,3 +47,4 @@ repos:
   - id: check-filename
   - id: check-logger
   - id: check-invalid-domains
+  - id: check-print
